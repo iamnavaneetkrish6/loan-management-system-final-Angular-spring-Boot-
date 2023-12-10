@@ -1,0 +1,672 @@
+2023-12-10T00:07:40.390+05:30  INFO 4748 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T00:07:40.499+05:30  INFO 4748 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T00:07:40.530+05:30  INFO 4748 --- [http-nio-8485-exec-8] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T00:08:22.842+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:08:22.845+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:22.860+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:08:22.860+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:22.865+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T00:08:22.866+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T00:08:22.867+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:48.693+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:08:48.694+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:48.712+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:08:48.712+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:48.715+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T00:08:48.716+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T00:08:48.716+05:30  INFO 4748 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:55.900+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:08:55.902+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:55.915+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:08:55.916+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:08:55.917+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T00:08:55.917+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T00:08:55.917+05:30  INFO 4748 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:09:23.279+05:30  INFO 4748 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Generating token for username: krishna
+2023-12-10T00:09:23.284+05:30  INFO 4748 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Creating token for username: krishna
+2023-12-10T00:09:23.288+05:30  INFO 4748 --- [http-nio-8485-exec-9] c.h.l.r.LoginRestController              : Admin login successful for username: krishna
+2023-12-10T00:09:30.646+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:09:30.647+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:09:30.656+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:09:30.656+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:09:30.661+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T00:09:30.662+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T00:09:30.662+05:30  INFO 4748 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:10:14.952+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:10:14.952+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:10:14.963+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T00:10:14.963+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T00:10:14.965+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T00:10:14.967+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T00:10:14.967+05:30  INFO 4748 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:41:13.626+05:30  INFO 4748 --- [RMI TCP Connection(117)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T01:41:13.807+05:30  INFO 4748 --- [RMI TCP Connection(117)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T01:41:13.825+05:30  INFO 4748 --- [RMI TCP Connection(117)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-10T01:41:13.880+05:30  WARN 4748 --- [RMI TCP Connection(117)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T01:41:13.883+05:30  WARN 4748 --- [RMI TCP Connection(117)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [logback-1] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+ java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+ java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1623)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T01:41:13.976+05:30  INFO 4748 --- [RMI TCP Connection(117)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T01:41:14.014+05:30  INFO 4748 --- [RMI TCP Connection(117)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T01:41:14.037+05:30  INFO 4748 --- [RMI TCP Connection(117)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T01:41:17.973+05:30  INFO 20168 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 20168 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T01:41:17.977+05:30  INFO 20168 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T01:41:19.188+05:30  INFO 20168 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T01:41:19.310+05:30  INFO 20168 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 105 ms. Found 6 JPA repository interfaces.
+2023-12-10T01:41:20.097+05:30  INFO 20168 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T01:41:20.111+05:30  INFO 20168 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T01:41:20.111+05:30  INFO 20168 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T01:41:20.316+05:30  INFO 20168 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T01:41:20.317+05:30  INFO 20168 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2253 ms
+2023-12-10T01:41:20.541+05:30  INFO 20168 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T01:41:20.672+05:30  INFO 20168 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T01:41:20.980+05:30  WARN 20168 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T01:41:21.178+05:30  INFO 20168 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T01:41:21.565+05:30  INFO 20168 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e090aaa
+2023-12-10T01:41:21.568+05:30  INFO 20168 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T01:41:21.684+05:30  INFO 20168 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T01:41:23.203+05:30  INFO 20168 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T01:41:23.220+05:30  INFO 20168 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T01:41:24.324+05:30  WARN 20168 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T01:41:24.795+05:30  INFO 20168 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@109f95b1, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4d20cbb5, org.springframework.security.web.context.SecurityContextHolderFilter@2719139f, org.springframework.security.web.header.HeaderWriterFilter@34ac72c3, org.springframework.web.filter.CorsFilter@74eae1e0, org.springframework.security.web.authentication.logout.LogoutFilter@57330423, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@451f3f66, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1b641c97, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7f065f9e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3c3357c7, org.springframework.security.web.session.SessionManagementFilter@4d86f330, org.springframework.security.web.access.ExceptionTranslationFilter@28901fe7, org.springframework.security.web.access.intercept.AuthorizationFilter@66d766b9]
+2023-12-10T01:41:25.241+05:30  INFO 20168 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T01:41:25.254+05:30  INFO 20168 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 7.881 seconds (process running for 9.184)
+2023-12-10T01:41:39.772+05:30  INFO 20168 --- [http-nio-8485-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-10T01:41:39.773+05:30  INFO 20168 --- [http-nio-8485-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-10T01:41:39.778+05:30  INFO 20168 --- [http-nio-8485-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2023-12-10T01:41:39.841+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:41:39.842+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:41:40.063+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:41:40.063+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:41:40.066+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T01:41:40.066+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T01:41:40.067+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:41:44.631+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:41:44.631+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:41:44.640+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:41:44.640+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:41:44.644+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T01:41:44.645+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T01:41:44.646+05:30  INFO 20168 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:42:25.783+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:42:25.784+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:42:25.791+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:42:25.791+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:42:25.794+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T01:42:25.794+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T01:42:25.794+05:30  INFO 20168 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:43:01.932+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:43:01.932+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:43:01.941+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:43:01.942+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:43:01.947+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T01:43:01.948+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T01:43:01.948+05:30  INFO 20168 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:43:53.169+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:43:53.171+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:43:53.181+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:43:53.182+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:43:53.184+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T01:43:53.185+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T01:43:53.185+05:30  INFO 20168 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:45:21.399+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:45:21.400+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:45:21.412+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T01:45:21.413+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T01:45:21.416+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T01:45:21.416+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T01:45:21.416+05:30  INFO 20168 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T03:18:58.555+05:30  INFO 20168 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T03:18:58.565+05:30  INFO 20168 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T03:18:58.632+05:30  INFO 20168 --- [http-nio-8485-exec-7] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T03:32:11.419+05:30  INFO 20168 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T03:32:11.419+05:30  INFO 20168 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T03:32:11.421+05:30  INFO 20168 --- [http-nio-8485-exec-9] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T03:46:54.967+05:30  INFO 20168 --- [RMI TCP Connection(133)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T03:46:55.149+05:30  INFO 20168 --- [RMI TCP Connection(133)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T03:46:55.168+05:30  INFO 20168 --- [RMI TCP Connection(133)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-10T03:46:55.201+05:30  WARN 20168 --- [RMI TCP Connection(133)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T03:46:55.254+05:30  INFO 20168 --- [RMI TCP Connection(133)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T03:46:55.306+05:30  INFO 20168 --- [RMI TCP Connection(133)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T03:46:55.336+05:30  INFO 20168 --- [RMI TCP Connection(133)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T03:54:04.121+05:30  INFO 20220 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 20220 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T03:54:04.133+05:30  INFO 20220 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T03:54:06.899+05:30  INFO 20220 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T03:54:07.067+05:30  INFO 20220 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 152 ms. Found 6 JPA repository interfaces.
+2023-12-10T03:54:08.297+05:30  INFO 20220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T03:54:08.331+05:30  INFO 20220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T03:54:08.332+05:30  INFO 20220 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T03:54:08.592+05:30  INFO 20220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T03:54:08.593+05:30  INFO 20220 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4281 ms
+2023-12-10T03:54:08.764+05:30  INFO 20220 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T03:54:08.845+05:30  INFO 20220 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T03:54:09.088+05:30  WARN 20220 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T03:54:09.237+05:30  INFO 20220 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T03:54:09.631+05:30  INFO 20220 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45424c0
+2023-12-10T03:54:09.635+05:30  INFO 20220 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T03:54:09.743+05:30  INFO 20220 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T03:54:11.920+05:30  INFO 20220 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T03:54:11.942+05:30  INFO 20220 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T03:54:13.512+05:30  WARN 20220 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T03:54:14.024+05:30  INFO 20220 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@36f1bd7e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1c2273f6, org.springframework.security.web.context.SecurityContextHolderFilter@4b407ac7, org.springframework.security.web.header.HeaderWriterFilter@40e41f88, org.springframework.web.filter.CorsFilter@411e567e, org.springframework.security.web.authentication.logout.LogoutFilter@6a08113d, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@5fafd099, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5578ed7e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5dd5422f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e58eda2, org.springframework.security.web.session.SessionManagementFilter@58fbecde, org.springframework.security.web.access.ExceptionTranslationFilter@4ff00844, org.springframework.security.web.access.intercept.AuthorizationFilter@1e3689e7]
+2023-12-10T03:54:14.460+05:30  INFO 20220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T03:54:14.473+05:30  INFO 20220 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 11.842 seconds (process running for 16.37)
+2023-12-10T04:00:19.793+05:30  INFO 20220 --- [http-nio-8485-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-10T04:00:19.797+05:30  INFO 20220 --- [http-nio-8485-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-10T04:00:19.800+05:30  INFO 20220 --- [http-nio-8485-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-12-10T04:00:27.647+05:30  INFO 20220 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T04:00:27.648+05:30  INFO 20220 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T04:00:27.716+05:30  INFO 20220 --- [http-nio-8485-exec-1] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T04:11:48.121+05:30  INFO 20220 --- [RMI TCP Connection(25)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T04:11:48.137+05:30  INFO 20220 --- [RMI TCP Connection(25)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T04:11:48.141+05:30  INFO 20220 --- [RMI TCP Connection(25)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-10T04:11:48.144+05:30  WARN 20220 --- [RMI TCP Connection(25)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T04:11:48.156+05:30  INFO 20220 --- [RMI TCP Connection(25)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T04:11:48.159+05:30  INFO 20220 --- [RMI TCP Connection(25)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T04:11:48.180+05:30  INFO 20220 --- [RMI TCP Connection(25)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T10:03:16.842+05:30  INFO 12336 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 12336 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T10:03:16.856+05:30  INFO 12336 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T10:03:18.245+05:30  INFO 12336 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T10:03:18.348+05:30  INFO 12336 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 90 ms. Found 6 JPA repository interfaces.
+2023-12-10T10:03:19.154+05:30  INFO 12336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T10:03:19.168+05:30  INFO 12336 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T10:03:19.169+05:30  INFO 12336 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T10:03:19.313+05:30  INFO 12336 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T10:03:19.314+05:30  INFO 12336 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2318 ms
+2023-12-10T10:03:19.491+05:30  INFO 12336 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T10:03:19.593+05:30  INFO 12336 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T10:03:19.826+05:30  WARN 12336 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T10:03:19.972+05:30  INFO 12336 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T10:03:20.383+05:30  INFO 12336 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d7055be
+2023-12-10T10:03:20.387+05:30  INFO 12336 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T10:03:20.495+05:30  INFO 12336 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T10:03:21.707+05:30  INFO 12336 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T10:03:21.723+05:30  INFO 12336 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:03:22.537+05:30  WARN 12336 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T10:03:22.889+05:30  INFO 12336 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@40e90634, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@78b29e00, org.springframework.security.web.context.SecurityContextHolderFilter@6b6bae60, org.springframework.security.web.header.HeaderWriterFilter@1b641c97, org.springframework.web.filter.CorsFilter@5c438795, org.springframework.security.web.authentication.logout.LogoutFilter@74eae1e0, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@14091e24, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66be0e72, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@38276668, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3b4b2c03, org.springframework.security.web.session.SessionManagementFilter@158b8d10, org.springframework.security.web.access.ExceptionTranslationFilter@2719139f, org.springframework.security.web.access.intercept.AuthorizationFilter@75f9a35a]
+2023-12-10T10:03:23.268+05:30  INFO 12336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T10:03:23.280+05:30  INFO 12336 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 6.998 seconds (process running for 7.875)
+2023-12-10T10:03:25.934+05:30  INFO 12336 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T10:03:25.950+05:30  INFO 12336 --- [RMI TCP Connection(7)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T10:03:25.956+05:30  WARN 12336 --- [RMI TCP Connection(7)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T10:03:25.966+05:30  INFO 12336 --- [RMI TCP Connection(7)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:03:25.970+05:30  INFO 12336 --- [RMI TCP Connection(7)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T10:03:25.981+05:30  INFO 12336 --- [RMI TCP Connection(7)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T10:03:29.534+05:30  INFO 15076 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 15076 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T10:03:29.541+05:30  INFO 15076 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T10:03:30.586+05:30  INFO 15076 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T10:03:30.693+05:30  INFO 15076 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 94 ms. Found 6 JPA repository interfaces.
+2023-12-10T10:03:31.353+05:30  INFO 15076 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T10:03:31.364+05:30  INFO 15076 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T10:03:31.365+05:30  INFO 15076 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T10:03:31.511+05:30  INFO 15076 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T10:03:31.513+05:30  INFO 15076 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1886 ms
+2023-12-10T10:03:31.721+05:30  INFO 15076 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T10:03:31.793+05:30  INFO 15076 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T10:03:31.986+05:30  WARN 15076 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T10:03:32.116+05:30  INFO 15076 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T10:03:32.479+05:30  INFO 15076 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@299a43d9
+2023-12-10T10:03:32.482+05:30  INFO 15076 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T10:03:32.563+05:30  INFO 15076 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T10:03:33.686+05:30  INFO 15076 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T10:03:33.701+05:30  INFO 15076 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:03:34.504+05:30  WARN 15076 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T10:03:34.842+05:30  INFO 15076 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@36f1bd7e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1c2273f6, org.springframework.security.web.context.SecurityContextHolderFilter@4b407ac7, org.springframework.security.web.header.HeaderWriterFilter@40e41f88, org.springframework.web.filter.CorsFilter@411e567e, org.springframework.security.web.authentication.logout.LogoutFilter@6a08113d, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@580e01cd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5578ed7e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5dd5422f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4e58eda2, org.springframework.security.web.session.SessionManagementFilter@58fbecde, org.springframework.security.web.access.ExceptionTranslationFilter@4ff00844, org.springframework.security.web.access.intercept.AuthorizationFilter@1e3689e7]
+2023-12-10T10:03:35.240+05:30  INFO 15076 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T10:03:35.254+05:30  INFO 15076 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 6.292 seconds (process running for 7.243)
+2023-12-10T10:03:50.935+05:30  INFO 5648 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : Starting AdminDetailsServiceImpTest using Java 17.0.8.1 with PID 5648 (started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T10:03:50.941+05:30  INFO 5648 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T10:03:52.313+05:30  INFO 5648 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T10:03:52.449+05:30  INFO 5648 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 121 ms. Found 6 JPA repository interfaces.
+2023-12-10T10:03:53.266+05:30  INFO 5648 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T10:03:53.380+05:30  INFO 5648 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T10:03:53.693+05:30  WARN 5648 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T10:03:53.979+05:30  INFO 5648 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T10:03:54.487+05:30  INFO 5648 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@16df9bde
+2023-12-10T10:03:54.491+05:30  INFO 5648 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T10:03:54.596+05:30  INFO 5648 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T10:03:56.319+05:30  INFO 5648 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T10:03:56.333+05:30  INFO 5648 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:03:57.490+05:30  WARN 5648 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T10:03:58.069+05:30  INFO 5648 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7aa62a90, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@23ee31b8, org.springframework.security.web.context.SecurityContextHolderFilter@3ede428e, org.springframework.security.web.header.HeaderWriterFilter@554db19d, org.springframework.web.filter.CorsFilter@5fc42998, org.springframework.security.web.authentication.logout.LogoutFilter@5a106b26, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@3fc2a1d1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@671c71e8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7d5176d6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@16422f27, org.springframework.security.web.session.SessionManagementFilter@5fdcc63f, org.springframework.security.web.access.ExceptionTranslationFilter@66e44f9f, org.springframework.security.web.access.intercept.AuthorizationFilter@2bfe4df9]
+2023-12-10T10:03:58.636+05:30  INFO 5648 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : Started AdminDetailsServiceImpTest in 8.303 seconds (process running for 10.401)
+2023-12-10T10:03:59.138+05:30  INFO 5648 --- [main] c.h.l.service.AdminDetailsServiceImp     : Admin Data with ID: 1 deleted successfully in the Admin Service Implementation
+2023-12-10T10:03:59.277+05:30  INFO 5648 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:03:59.283+05:30  INFO 5648 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T10:03:59.387+05:30  INFO 5648 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T10:05:48.573+05:30  INFO 7212 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : Starting AdminDetailsServiceImpTest using Java 17.0.8.1 with PID 7212 (started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T10:05:48.577+05:30  INFO 7212 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T10:05:49.972+05:30  INFO 7212 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T10:05:50.102+05:30  INFO 7212 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 110 ms. Found 6 JPA repository interfaces.
+2023-12-10T10:05:50.964+05:30  INFO 7212 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T10:05:51.056+05:30  INFO 7212 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T10:05:51.341+05:30  WARN 7212 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T10:05:51.606+05:30  INFO 7212 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T10:05:52.071+05:30  INFO 7212 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@478530cb
+2023-12-10T10:05:52.077+05:30  INFO 7212 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T10:05:52.154+05:30  INFO 7212 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T10:05:53.804+05:30  INFO 7212 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T10:05:53.820+05:30  INFO 7212 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:05:55.012+05:30  WARN 7212 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T10:05:55.745+05:30  INFO 7212 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@56728f48, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@281d3ce7, org.springframework.security.web.context.SecurityContextHolderFilter@16eca98a, org.springframework.security.web.header.HeaderWriterFilter@18b88f7, org.springframework.web.filter.CorsFilter@fdfd984, org.springframework.security.web.authentication.logout.LogoutFilter@3ed3e66d, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@136690b1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@480f1311, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@60c68c7b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@45e49d3d, org.springframework.security.web.session.SessionManagementFilter@14927cd4, org.springframework.security.web.access.ExceptionTranslationFilter@13e6ab86, org.springframework.security.web.access.intercept.AuthorizationFilter@4117e0c9]
+2023-12-10T10:05:56.333+05:30  INFO 7212 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : Started AdminDetailsServiceImpTest in 8.234 seconds (process running for 10.057)
+2023-12-10T10:05:56.824+05:30  INFO 7212 --- [main] c.h.l.service.AdminDetailsServiceImp     : Admin Data with ID: 1 deleted successfully in the Admin Service Implementation
+2023-12-10T10:05:56.886+05:30  INFO 7212 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:05:56.892+05:30  INFO 7212 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T10:05:56.922+05:30  INFO 7212 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T10:08:04.634+05:30  INFO 7408 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : Starting AdminDetailsServiceImpTest using Java 17.0.8.1 with PID 7408 (started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T10:08:04.640+05:30  INFO 7408 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T10:08:06.067+05:30  INFO 7408 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T10:08:06.210+05:30  INFO 7408 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 125 ms. Found 6 JPA repository interfaces.
+2023-12-10T10:08:07.120+05:30  INFO 7408 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T10:08:07.226+05:30  INFO 7408 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T10:08:07.583+05:30  WARN 7408 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T10:08:07.891+05:30  INFO 7408 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T10:08:08.578+05:30  INFO 7408 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b32e983
+2023-12-10T10:08:08.591+05:30  INFO 7408 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T10:08:08.682+05:30  INFO 7408 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T10:08:10.422+05:30  INFO 7408 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T10:08:10.439+05:30  INFO 7408 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:08:11.792+05:30  WARN 7408 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T10:08:12.289+05:30  INFO 7408 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@65067d37, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@74f9004c, org.springframework.security.web.context.SecurityContextHolderFilter@a3f1f32, org.springframework.security.web.header.HeaderWriterFilter@24347d8b, org.springframework.web.filter.CorsFilter@4f2a0909, org.springframework.security.web.authentication.logout.LogoutFilter@3d6c7152, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@41092c8, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@580a5b6e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66450129, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@34947355, org.springframework.security.web.session.SessionManagementFilter@10efb806, org.springframework.security.web.access.ExceptionTranslationFilter@1d6ed085, org.springframework.security.web.access.intercept.AuthorizationFilter@30942f54]
+2023-12-10T10:08:12.872+05:30  INFO 7408 --- [main] c.h.l.s.AdminDetailsServiceImpTest       : Started AdminDetailsServiceImpTest in 8.735 seconds (process running for 10.411)
+2023-12-10T10:08:13.335+05:30  INFO 7408 --- [main] c.h.l.service.AdminDetailsServiceImp     : Admin Data with ID: 1 deleted successfully in the Admin Service Implementation
+2023-12-10T10:08:13.381+05:30  INFO 7408 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:08:13.386+05:30  INFO 7408 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T10:08:13.424+05:30  INFO 7408 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T10:10:27.828+05:30  INFO 15076 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T10:10:27.845+05:30  INFO 15076 --- [RMI TCP Connection(15)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T10:10:27.849+05:30  WARN 15076 --- [RMI TCP Connection(15)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T10:10:27.860+05:30  INFO 15076 --- [RMI TCP Connection(15)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:10:27.864+05:30  INFO 15076 --- [RMI TCP Connection(15)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T10:10:27.880+05:30  INFO 15076 --- [RMI TCP Connection(15)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T10:10:31.708+05:30  INFO 2800 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 2800 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T10:10:31.713+05:30  INFO 2800 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T10:10:32.820+05:30  INFO 2800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T10:10:33.060+05:30  INFO 2800 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 220 ms. Found 6 JPA repository interfaces.
+2023-12-10T10:10:34.133+05:30  INFO 2800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T10:10:34.150+05:30  INFO 2800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T10:10:34.150+05:30  INFO 2800 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T10:10:34.304+05:30  INFO 2800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T10:10:34.306+05:30  INFO 2800 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2516 ms
+2023-12-10T10:10:34.495+05:30  INFO 2800 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T10:10:34.566+05:30  INFO 2800 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T10:10:34.778+05:30  WARN 2800 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T10:10:34.927+05:30  INFO 2800 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T10:10:35.324+05:30  INFO 2800 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@45fb2354
+2023-12-10T10:10:35.327+05:30  INFO 2800 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T10:10:35.429+05:30  INFO 2800 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T10:10:36.779+05:30  INFO 2800 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T10:10:36.795+05:30  INFO 2800 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T10:10:37.773+05:30  WARN 2800 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T10:10:38.308+05:30  INFO 2800 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7acbd3d0, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49d5c751, org.springframework.security.web.context.SecurityContextHolderFilter@e594c46, org.springframework.security.web.header.HeaderWriterFilter@2719139f, org.springframework.web.filter.CorsFilter@40e90634, org.springframework.security.web.authentication.logout.LogoutFilter@109f95b1, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@408980aa, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6b6bae60, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@22c14d10, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@78b29e00, org.springframework.security.web.session.SessionManagementFilter@5578ed7e, org.springframework.security.web.access.ExceptionTranslationFilter@1e8b0ab5, org.springframework.security.web.access.intercept.AuthorizationFilter@411e567e]
+2023-12-10T10:10:38.733+05:30  INFO 2800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T10:10:38.757+05:30  INFO 2800 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 7.598 seconds (process running for 8.513)
+2023-12-10T12:19:23.774+05:30  INFO 2800 --- [RMI TCP Connection(136)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T12:19:23.803+05:30  INFO 2800 --- [RMI TCP Connection(136)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T12:19:23.812+05:30  WARN 2800 --- [RMI TCP Connection(136)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T12:19:23.823+05:30  INFO 2800 --- [RMI TCP Connection(136)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T12:19:23.827+05:30  INFO 2800 --- [RMI TCP Connection(136)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T12:19:23.834+05:30  INFO 2800 --- [RMI TCP Connection(136)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T12:19:28.238+05:30  INFO 3020 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 3020 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T12:19:28.243+05:30  INFO 3020 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T12:19:29.335+05:30  INFO 3020 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T12:19:29.455+05:30  INFO 3020 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 107 ms. Found 6 JPA repository interfaces.
+2023-12-10T12:19:30.173+05:30  INFO 3020 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T12:19:30.190+05:30  INFO 3020 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T12:19:30.190+05:30  INFO 3020 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T12:19:30.342+05:30  INFO 3020 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T12:19:30.343+05:30  INFO 3020 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2018 ms
+2023-12-10T12:19:30.533+05:30  INFO 3020 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T12:19:30.618+05:30  INFO 3020 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T12:19:30.822+05:30  WARN 3020 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T12:19:30.974+05:30  INFO 3020 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T12:19:31.363+05:30  INFO 3020 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@d7055be
+2023-12-10T12:19:31.366+05:30  INFO 3020 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T12:19:31.456+05:30  INFO 3020 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T12:19:32.702+05:30  INFO 3020 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T12:19:32.719+05:30  INFO 3020 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T12:19:33.663+05:30  WARN 3020 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T12:19:34.054+05:30  INFO 3020 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@655d5285, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@36f1bd7e, org.springframework.security.web.context.SecurityContextHolderFilter@3ba6707e, org.springframework.security.web.header.HeaderWriterFilter@20ee660b, org.springframework.web.filter.CorsFilter@1c2273f6, org.springframework.security.web.authentication.logout.LogoutFilter@36dbfa68, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@2370c90, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4c5ae26d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5578ed7e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@411e567e, org.springframework.security.web.session.SessionManagementFilter@154cbb46, org.springframework.security.web.access.ExceptionTranslationFilter@46c093b4, org.springframework.security.web.access.intercept.AuthorizationFilter@381d7c4c]
+2023-12-10T12:19:34.492+05:30  INFO 3020 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T12:19:34.505+05:30  INFO 3020 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 6.816 seconds (process running for 7.856)
+2023-12-10T13:21:38.428+05:30  INFO 3020 --- [http-nio-8485-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-10T13:21:38.429+05:30  INFO 3020 --- [http-nio-8485-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-10T13:21:38.433+05:30  INFO 3020 --- [http-nio-8485-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2023-12-10T13:21:39.056+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T13:21:39.057+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T13:21:39.094+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T13:27:02.944+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T13:27:02.945+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T13:27:02.946+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T13:33:38.146+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Generating token for username: krishna
+2023-12-10T13:33:38.147+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Creating token for username: krishna
+2023-12-10T13:33:38.150+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.r.LoginRestController              : Admin login successful for username: krishna
+2023-12-10T13:34:29.483+05:30  INFO 3020 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Generating token for username: krishna
+2023-12-10T13:34:29.484+05:30  INFO 3020 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Creating token for username: krishna
+2023-12-10T13:34:29.485+05:30  INFO 3020 --- [http-nio-8485-exec-8] c.h.l.r.LoginRestController              : Admin login successful for username: krishna
+2023-12-10T13:35:47.020+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:35:47.021+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:35:47.088+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:35:47.089+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:35:47.092+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:35:47.092+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:35:47.093+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:38:09.772+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:38:09.773+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:38:09.780+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:38:09.780+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:38:09.783+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:38:09.783+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:38:09.784+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:39:03.310+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:39:03.311+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:39:03.318+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:39:03.319+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:39:03.326+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:39:03.326+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:39:03.326+05:30  INFO 3020 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:54:09.356+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:54:09.358+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:54:09.368+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:54:09.369+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:54:09.373+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:54:09.374+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:54:09.374+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:54:31.039+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:54:31.040+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:54:31.056+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:54:31.056+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:54:31.063+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:54:31.064+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:54:31.064+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:57:57.023+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:57:57.024+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:57:57.037+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:57:57.037+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:57:57.042+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:57:57.042+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:57:57.042+05:30  INFO 3020 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:58:28.099+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:58:28.100+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:58:28.106+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:58:28.106+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:58:28.108+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:58:28.109+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:58:28.109+05:30  INFO 3020 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:59:07.664+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:59:07.665+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:59:07.675+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T13:59:07.675+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T13:59:07.679+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T13:59:07.679+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T13:59:07.680+05:30  INFO 3020 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:00:49.923+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:00:49.923+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:00:49.933+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:00:49.933+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:00:49.935+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:00:49.935+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:00:49.935+05:30  INFO 3020 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:01:42.229+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:01:42.230+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:01:42.235+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:01:42.235+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:01:42.237+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:01:42.238+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:01:42.238+05:30  INFO 3020 --- [http-nio-8485-exec-6] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:02:19.425+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:02:19.427+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:02:19.443+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:02:19.444+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:02:19.448+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:02:19.449+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:02:19.450+05:30  INFO 3020 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:09:29.455+05:30  INFO 3020 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T14:09:29.456+05:30  INFO 3020 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T14:09:29.459+05:30  INFO 3020 --- [http-nio-8485-exec-10] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T14:09:43.692+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:09:43.693+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:09:43.705+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:09:43.705+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:09:43.707+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:09:43.708+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:09:43.708+05:30  INFO 3020 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:16:39.455+05:30  INFO 14572 --- [main] h.l.r.LoanApplyDetailsRestControllerTest : Starting LoanApplyDetailsRestControllerTest using Java 17.0.8.1 with PID 14572 (started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T14:16:39.460+05:30  INFO 14572 --- [main] h.l.r.LoanApplyDetailsRestControllerTest : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T14:16:42.479+05:30  INFO 14572 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T14:16:42.713+05:30  INFO 14572 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 212 ms. Found 6 JPA repository interfaces.
+2023-12-10T14:16:44.912+05:30  INFO 14572 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T14:16:45.133+05:30  INFO 14572 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T14:16:45.814+05:30  WARN 14572 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T14:16:46.473+05:30  INFO 14572 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T14:16:47.561+05:30  INFO 14572 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5560b64d
+2023-12-10T14:16:47.567+05:30  INFO 14572 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T14:16:47.815+05:30  INFO 14572 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T14:16:50.981+05:30  INFO 14572 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T14:16:51.005+05:30  INFO 14572 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T14:16:53.812+05:30  WARN 14572 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T14:16:55.537+05:30  INFO 14572 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@713c8cbb, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7680beac, org.springframework.security.web.context.SecurityContextHolderFilter@66ab3716, org.springframework.security.web.header.HeaderWriterFilter@6aa85fcf, org.springframework.web.filter.CorsFilter@7053a864, org.springframework.security.web.authentication.logout.LogoutFilter@1315d910, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@6f9b5f01, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1d6ed085, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1b18fa79, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@282079b9, org.springframework.security.web.session.SessionManagementFilter@7d5176d6, org.springframework.security.web.access.ExceptionTranslationFilter@4fa3bebe, org.springframework.security.web.access.intercept.AuthorizationFilter@16422f27]
+2023-12-10T14:16:57.039+05:30  INFO 14572 --- [main] h.l.r.LoanApplyDetailsRestControllerTest : Started LoanApplyDetailsRestControllerTest in 18.555 seconds (process running for 22.341)
+2023-12-10T14:16:58.052+05:30  INFO 14572 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T14:16:58.057+05:30  INFO 14572 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T14:16:58.107+05:30  INFO 14572 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T14:23:25.755+05:30  INFO 3020 --- [RMI TCP Connection(133)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T14:23:25.784+05:30  INFO 3020 --- [RMI TCP Connection(133)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T14:23:25.788+05:30  INFO 3020 --- [RMI TCP Connection(133)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-10T14:23:25.801+05:30  WARN 3020 --- [RMI TCP Connection(133)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T14:23:25.825+05:30  INFO 3020 --- [RMI TCP Connection(133)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T14:23:25.842+05:30  INFO 3020 --- [RMI TCP Connection(133)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T14:23:25.849+05:30  INFO 3020 --- [RMI TCP Connection(133)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-12-10T14:31:51.261+05:30  INFO 17304 --- [main] c.h.l.LoanManagementSystemApplication    : Starting LoanManagementSystemApplication using Java 17.0.8.1 with PID 17304 (C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System\target\classes started by Asus in C:\Users\Asus\Desktop\loanMangementSystem_Team-6-main\Loan_Management_System)
+2023-12-10T14:31:51.265+05:30  INFO 17304 --- [main] c.h.l.LoanManagementSystemApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-12-10T14:31:52.380+05:30  INFO 17304 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-10T14:31:52.495+05:30  INFO 17304 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 101 ms. Found 6 JPA repository interfaces.
+2023-12-10T14:31:53.319+05:30  INFO 17304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8485 (http)
+2023-12-10T14:31:53.335+05:30  INFO 17304 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-10T14:31:53.335+05:30  INFO 17304 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-12-10T14:31:53.502+05:30  INFO 17304 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-10T14:31:53.503+05:30  INFO 17304 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2158 ms
+2023-12-10T14:31:53.685+05:30  INFO 17304 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-12-10T14:31:53.778+05:30  INFO 17304 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-12-10T14:31:54.020+05:30  WARN 17304 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-12-10T14:31:54.174+05:30  INFO 17304 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-12-10T14:31:54.550+05:30  INFO 17304 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a117dc2
+2023-12-10T14:31:54.554+05:30  INFO 17304 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-12-10T14:31:54.654+05:30  INFO 17304 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-12-10T14:31:56.063+05:30  INFO 17304 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-12-10T14:31:56.081+05:30  INFO 17304 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T14:31:57.062+05:30  WARN 17304 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-12-10T14:31:57.470+05:30  INFO 17304 --- [main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2e41b65a, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4d25943d, org.springframework.security.web.context.SecurityContextHolderFilter@3f9ee527, org.springframework.security.web.header.HeaderWriterFilter@5578ed7e, org.springframework.web.filter.CorsFilter@2eea0775, org.springframework.security.web.authentication.logout.LogoutFilter@411e567e, com.hexaware.loanmanagementsystem.filter.JwtAuthFilter@6f986031, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@58a5b69c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3b22bcad, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@495a9305, org.springframework.security.web.session.SessionManagementFilter@3344c1d7, org.springframework.security.web.access.ExceptionTranslationFilter@4b407ac7, org.springframework.security.web.access.intercept.AuthorizationFilter@7d43c89f]
+2023-12-10T14:31:57.940+05:30  INFO 17304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8485 (http) with context path ''
+2023-12-10T14:31:57.951+05:30  INFO 17304 --- [main] c.h.l.LoanManagementSystemApplication    : Started LoanManagementSystemApplication in 7.246 seconds (process running for 8.384)
+2023-12-10T14:32:33.336+05:30  INFO 17304 --- [http-nio-8485-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-10T14:32:33.337+05:30  INFO 17304 --- [http-nio-8485-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-10T14:32:33.340+05:30  INFO 17304 --- [http-nio-8485-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-12-10T14:32:34.182+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T14:32:34.183+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T14:32:34.271+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T14:41:42.892+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:41:42.893+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:41:42.988+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:41:42.988+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:41:42.990+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:41:42.991+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:41:42.991+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:41:43.015+05:30  INFO 17304 --- [http-nio-8485-exec-4] c.h.l.service.LoanTypesServiceImp        : LoanType Service Implementation- Fetching all LoanType 
+2023-12-10T14:41:55.355+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:41:55.355+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:41:55.368+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:41:55.369+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:41:55.372+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:41:55.372+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:41:55.372+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:41:55.381+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.LoanTypesServiceImp        : LoanType Service Implementation- Fetching all LoanType 
+2023-12-10T14:43:05.675+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:43:05.675+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:05.690+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:43:05.690+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:05.694+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:43:05.694+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:43:05.694+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:05.707+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.LoanTypesServiceImp        : LoanType Service Implementation- Fetching all LoanType 
+2023-12-10T14:43:11.441+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:43:11.444+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:11.457+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:43:11.457+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:11.461+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:43:11.461+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:43:11.461+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:11.470+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.LoanTypesServiceImp        : LoanType Service Implementation- Fetching all LoanType 
+2023-12-10T14:43:16.704+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:43:16.704+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:16.719+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:43:16.720+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:16.724+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:43:16.724+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:43:16.724+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:43:16.733+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.LoanTypesServiceImp        : LoanType Service Implementation- Fetching all LoanType 
+2023-12-10T14:44:00.637+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T14:44:00.637+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T14:44:00.640+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T14:44:13.942+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:44:13.943+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:44:13.958+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:44:13.958+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:44:13.961+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:44:13.961+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:44:13.961+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:44:13.967+05:30  INFO 17304 --- [http-nio-8485-exec-2] c.h.l.service.LoanTypesServiceImp        : LoanType Service Implementation- Fetching all LoanType 
+2023-12-10T14:44:48.352+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Generating token for username: krishna
+2023-12-10T14:44:48.353+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Creating token for username: krishna
+2023-12-10T14:44:48.354+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.r.LoginRestController              : Admin login successful for username: krishna
+2023-12-10T14:51:15.797+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Generating token for username: navaneet
+2023-12-10T14:51:15.797+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.service.JwtService                 : Creating token for username: navaneet
+2023-12-10T14:51:15.799+05:30  INFO 17304 --- [http-nio-8485-exec-7] c.h.l.r.LoginRestController              : Customer login successful for username: navaneet
+2023-12-10T14:51:24.878+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:51:24.879+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:51:24.889+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:51:24.890+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:51:24.892+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:51:24.892+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:51:24.892+05:30  INFO 17304 --- [http-nio-8485-exec-9] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:53:18.413+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Generating token for username: krishna
+2023-12-10T14:53:18.413+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.service.JwtService                 : Creating token for username: krishna
+2023-12-10T14:53:18.415+05:30  INFO 17304 --- [http-nio-8485-exec-1] c.h.l.r.LoginRestController              : Admin login successful for username: krishna
+2023-12-10T14:53:24.554+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:53:24.555+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:53:24.561+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:53:24.562+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:53:24.563+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:53:24.563+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:53:24.563+05:30  INFO 17304 --- [http-nio-8485-exec-3] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:53:34.547+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:53:34.548+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:53:34.561+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:53:34.561+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:53:34.563+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:53:34.564+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:53:34.564+05:30  INFO 17304 --- [http-nio-8485-exec-5] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:54:38.336+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:54:38.337+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:54:38.347+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:54:38.348+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:54:38.351+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:54:38.351+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:54:38.351+05:30  INFO 17304 --- [http-nio-8485-exec-8] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:56:22.493+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:56:22.494+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:56:22.502+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting username from token
+2023-12-10T14:56:22.502+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T14:56:22.504+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Checking if token is expired
+2023-12-10T14:56:22.504+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting expiration from token
+2023-12-10T14:56:22.504+05:30  INFO 17304 --- [http-nio-8485-exec-10] c.h.l.service.JwtService                 : Extracting all claims from token
+2023-12-10T15:25:50.362+05:30  INFO 17304 --- [RMI TCP Connection(61)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-10T15:25:50.418+05:30  INFO 17304 --- [RMI TCP Connection(61)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-12-10T15:25:50.423+05:30  INFO 17304 --- [RMI TCP Connection(61)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-12-10T15:25:50.432+05:30  WARN 17304 --- [RMI TCP Connection(61)-127.0.0.1] o.a.c.loader.WebappClassLoaderBase       : The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.8.1/java.lang.Thread.run(Thread.java:833)
+2023-12-10T15:25:50.454+05:30  INFO 17304 --- [RMI TCP Connection(61)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-12-10T15:25:50.464+05:30  INFO 17304 --- [RMI TCP Connection(61)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-12-10T15:25:50.482+05:30  INFO 17304 --- [RMI TCP Connection(61)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
